@@ -1,4 +1,7 @@
 {
+  "files": [
+    "node_modules/angularfire2/firebase-sdk-3-typings.d.ts"
+  ],
   "compileOnSave": false,
   "compilerOptions": {
     "outDir": "./dist/out-tsc",
