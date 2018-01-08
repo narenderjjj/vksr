@@ -27,4 +27,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Angular Dashboard Example
-[Dashboard](https://github.com/clamarque/Angular2_Dashboard/).
+[Dashboard Anular2](https://github.com/clamarque/Angular2_Dashboard/).
+[Dashboard Anular4](https://github.com/akveo/ngx-admin).
